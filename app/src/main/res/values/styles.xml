@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define other reusable styles here -->
+    <style name="CustomTextStyle">
+        <item name="android:textColor">@color/customTextColor</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <!-- Example of a style for buttons -->
+    <style name="CustomButtonStyle">
+        <item name="android:background">@color/buttonColor</item>
+        <item name="android:textColor">@color/buttonTextColor</item>
+        <item name="android:padding">16dp</item>
+    </style>
+</resources>

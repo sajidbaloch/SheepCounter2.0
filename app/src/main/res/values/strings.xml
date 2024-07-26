@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sheep Counter</string>
+    <string name="settings_activity_label">Settings</string>
+</resources>
